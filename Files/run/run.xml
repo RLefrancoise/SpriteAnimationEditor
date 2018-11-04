@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<animation file="run.png">
+    <frame delay="150" x="0" y="0" width="80" height="96" hotpointx="37" hotpointy="85" />
+    <frame delay="150" x="80" y="0" width="80" height="96" hotpointx="40" hotpointy="89" />
+    <frame delay="150" x="160" y="0" width="80" height="96" hotpointx="40" hotpointy="86" />
+    <frame delay="150" x="240" y="0" width="80" height="96" hotpointx="40" hotpointy="83" />
+    <frame delay="150" x="320" y="0" width="80" height="96" hotpointx="33" hotpointy="83" />
+    <frame delay="150" x="400" y="0" width="80" height="96" hotpointx="31" hotpointy="85" />
+    <frame delay="150" x="0" y="96" width="80" height="96" hotpointx="37" hotpointy="84" />
+    <frame delay="150" x="80" y="96" width="80" height="96" hotpointx="37" hotpointy="83" />
+</animation>
